@@ -6,7 +6,6 @@ namespace ClassMetotDemo
     {
         static void Main(string[] args)
         {
-
             Musteri musteri1 = new Musteri();
             musteri1.Id = 1;
             musteri1.Name = "Ahmet";
@@ -50,9 +49,6 @@ namespace ClassMetotDemo
             musteriManager.Delete(musteri1);
 
             Console.ReadLine();
-
-            Console.WriteLine("Hello World!");
-
         }
     }
 }

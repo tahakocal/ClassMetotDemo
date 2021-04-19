@@ -23,7 +23,7 @@ namespace ClassMetotDemo
             Musteri musteri3 = new Musteri();
             musteri3.Id = 3;
             musteri3.Name = "Samet";
-            musteri3.Surname = "Boz";
+            musteri3.Surname = "Koç";
             musteri3.Mail = "samet@gmail.com";
             musteri3.HesapBakiyesi = 23455;
 
